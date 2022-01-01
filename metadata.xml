@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Motor camping</dc:title>
+      <dc:creator>John Cuthbert Long (1892– )</dc:creator>
+      <dc:creator>John Dietrich Long (1860– )</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2021-12-21</dc:publisher>
+      <dc:date>2021-12-21</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+</dc:rights>
+      <dc:identifier>pg:66988</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
